@@ -1,4 +1,6 @@
-﻿namespace MorseCodeAlphabet
+﻿#pragma warning disable S3776
+
+namespace MorseCodeAlphabet
 {
     public static class UsingIf
     {
